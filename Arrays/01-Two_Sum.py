@@ -1,13 +1,16 @@
-# Problem: Two Sum
-# LeetCode: 1
+# Problem Name: Two Sum
+# LeetCode Number: 1
 # Difficulty: Easy
 # Topic: Array
-# Approach: Brute Force
-# Time Complexity: O(n²)
+# Approach: Brute Force (Nested Loops)
+#
+# Problem Description:
+# Given an array of integers nums and an integer
+# target, return the indices of two numbers
+# whose sum equals the target.
+#
+# Time Complexity: O(n^2)
 # Space Complexity: O(1)
-
-# 1.TWO SUM : You are given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-
 
 
 class Solution:
